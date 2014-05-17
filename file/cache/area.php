@@ -1,0 +1,1 @@
+<?php defined('IN_DESTOON') or exit('Access Denied'); return array (1 => array ('areaid' => '1','areaname' => 'Ä¬ÈÏµØÇø','parentid' => '0','arrparentid' => '0','child' => '0','arrchildid' => '1',),); ?>

@@ -1,0 +1,1 @@
+var DTPath = "http://localhost/cc520/";var SKPath = "http://localhost/cc520/skin/default/";var MEPath = "http://localhost/cc520/member/";var EXPath = "http://localhost/cc520/extend/";var CKDomain = "";var CKPath = "/";var CKPrex = "cyp_";

@@ -1,0 +1,14 @@
+<?php
+/*
+	[Destoon B2B System] Copyright (c) 2008-2013 Destoon.COM
+	This is NOT a freeware, use is subject to license.txt
+*/
+defined('IN_DESTOON') or exit('Access Denied');
+$L['error_password'] = 'ÃÜÂë´íÎó';
+$L['error_answer'] = '´ð°¸´íÎó';
+$L['private_title'] = 'Éí·ÝÑéÖ¤';
+$L['no_picture'] = 'ÔÝÎÞÍ¼Æ¬';
+$L['pass_password'] = 'ÇëÌîÐ´ÃÜÂë';
+$L['pass_question'] = 'ÇëÌîÐ´ÎÊÌâ';
+$L['pass_answer'] = 'ÇëÌîÐ´´ð°¸';
+?>
